@@ -17,6 +17,7 @@ C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\MarketVotingSystem.AssemblyIn
 C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\MarketVotingSystem.csproj.CoreCompileInputs.cache
 C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\MarketVotingSystem.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\MarketVotingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\MarketVotingSystem.sourcelink.json
 C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Arche\MarketVotingSystem\obj\Debug\net8.0\staticwebassets\msbuild.MarketVotingSystem.Microsoft.AspNetCore.StaticWebAssets.props
