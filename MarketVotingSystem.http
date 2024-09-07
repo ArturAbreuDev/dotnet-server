@@ -1,0 +1,6 @@
+@MarketVotingSystem_HostAddress = http://localhost:5046
+
+GET {{MarketVotingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
